@@ -1,0 +1,1 @@
+﻿Get-AppxPackage -allusers Microsoft.YourPhone | Remove-AppxPackage
